@@ -1,0 +1,3 @@
+[submodule "fclkcfg"]
+	path = fclkcfg
+	url = https://github.com/ikwzm/fclkcfg.git
