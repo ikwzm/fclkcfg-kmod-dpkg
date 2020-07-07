@@ -1,3 +1,9 @@
+fclkcfg (1.4.1-1) unstable; urgency=low
+
+  * Fix a problem that round_rate device file became invisible.
+
+ -- ikwzm <ichiro_k@ca2.so-net.ne.jp>  The, 7 Jul 2020 10:00:00 +0900
+
 fclkcfg (1.4.0-1) unstable; urgency=low
 
   * Add driver_version
