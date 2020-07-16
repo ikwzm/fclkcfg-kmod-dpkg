@@ -20,7 +20,7 @@ Build Debian Package
 ### Download repository
 
 ```console
-shell$ git clone --recursive --depth=1 -b v1.2.0 git://github.com/ikwzm/fclkcfg-kmod-dpkg
+shell$ git clone --recursive --depth=1 -b v1.6.0 git://github.com/ikwzm/fclkcfg-kmod-dpkg
 shell$ cd fclkcfg-kmod-dpkg
 ```
 
@@ -37,12 +37,12 @@ shell$ cd fclkcfg-kmod-dpkg
 
 
 ```console
-shell$ sudo debian/rules arch=arm deb_arch=armhf kernel_release=4.14.21-armv7-fpga kernel_src_dir=/usr/src/linux-4.14.21-armv7-fpga binary
+shell$ sudo debian/rules arch=arm deb_arch=armhf kernel_release=5.4.47-armv7-fpga kernel_src_dir=/usr/src/linux-5.4.47-armv7-fpga binary
     :
     :
     :
-shell$ file ../fclkcfg-4.14.21-armv7-fpga_1.2.0-1_armhf.deb
-../fclkcfg-4.14.21-armv7-fpga_1.2.0-1_armhf.deb: Debian binary package (format 2.0)
+shell$ file ../fclkcfg-5.4.47-armv7-fpga_1.6.0-1_armhf.deb
+../fclkcfg-5.4.47-armv7-fpga_1.6.0-1_armhf.deb: Debian binary package (format 2.0)
 ```
 
 ### Self Compile
@@ -52,7 +52,7 @@ shell$ sudo debian/rules binary
     :
     :
     :
-shell$ file ../fclkcfg-4.14.21-armv7-fpga_1.2.0-1_armhf.deb
-../fclkcfg-4.14.21-armv7-fpga_1.2.0-1_armhf.deb: Debian binary package (format 2.0)
+shell$ file ../fclkcfg-5.4.47-armv7-fpga_1.6.0-1_armhf.deb
+../fclkcfg-5.4.47-armv7-fpga_1.6.0-1_armhf.deb: Debian binary package (format 2.0)
 ```
 
