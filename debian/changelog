@@ -1,3 +1,9 @@
+fclkcfg (1.7.0-1) unstable; urgency=low
+
+  * Update to fclkcfg v1.7.0.
+
+ -- ikwzm <ichiro_k@ca2.so-net.ne.jp>  Sun,19 Jul 2020 16:05:00 +0900
+
 fclkcfg (1.6.0-1) unstable; urgency=low
 
   * Update to fclkcfg v1.6.0.
