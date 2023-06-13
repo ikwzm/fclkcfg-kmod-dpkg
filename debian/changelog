@@ -1,3 +1,9 @@
+fclkcfg (1.7.3-1) unstable; urgency=low
+
+  * Update to fclkcfg v1.7.3.
+
+ -- ikwzm <ichiro_k@ca2.so-net.ne.jp>  Tue,13 Jun 2023 14:20:00 +0900
+
 fclkcfg (1.7.2-1) unstable; urgency=low
 
   * Update to fclkcfg v1.7.2.
