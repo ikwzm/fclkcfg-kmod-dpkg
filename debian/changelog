@@ -1,3 +1,9 @@
+fclkcfg (1.9.1-1) unstable; urgency=low
+
+  * Update to fclkcfg v1.9.1.
+
+ -- ikwzm <ichiro_k@ca2.so-net.ne.jp>  Thu, 4 Dec 2025 12:52:00 +0900
+
 fclkcfg (1.9.0-1) unstable; urgency=low
 
   * Update to fclkcfg v1.9.0.
